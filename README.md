@@ -2,12 +2,16 @@
 
 ![image](https://user-images.githubusercontent.com/55183414/217476014-9cac4c20-3b76-4be7-b6d7-4971341ea75b.png)
 
-A simple [Wordle](https://www.nytimes.com/games/wordle/index.html) clone using Java. Playable within Java console. - Author: [@zerot69](http://github.com/zerot69)
+Welcome to [Wordle](https://www.nytimes.com/games/wordle/index.html) Java Clone, a simple and fun word-based game built with Java. The game is fully playable within the Java console and offers an enjoyable experience for players of all ages.
 
-Thanks https://www.bestwordlist.com/ for the list of 5-Letter Words in English.
+The author of this project is [@zerot69](http://github.com/zerot69), and special thanks to [bestwordlist.com](https://www.bestwordlist.com/) for providing the list of 5-letter words in English that is used in this game.
 
 ## How to play:
-1. Bulid and Run `Main.java`.
-2. To make sure everything works fine, type `1` to start the game.
-3. After each game, you can type `1` to continue or `0` to exit.
-4. Hope you have a great time playing Wordle.
+
+To start playing Wordle Java Clone, simply follow these steps:
+
+1. Build and run Main.java.
+2. To confirm that everything is working correctly, type 1 in the console to start the game.
+3. After each game, you can choose to continue playing by typing `1` or exit the game by typing `0`.
+
+I hope you have a great time playing Wordle Java Clone.
